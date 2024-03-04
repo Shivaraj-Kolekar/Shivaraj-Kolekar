@@ -2,8 +2,8 @@
 
 **`Digital craftsman (Developer)`**
 
-<br>
-<img alt="Coder GIF" height=450 width=850 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
+
 <br>
 I'm a passionate tech enthusiasts developing my version of digital world with one step at a time. All projects of mine are developed by proper planning and intent towards solving real life problem
 
