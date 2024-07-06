@@ -1,7 +1,9 @@
 ### 👨🏻‍💻 Shivaraj Kolekar
 
 **`Digital craftsman (Developer)`**
-
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Shivaraj-Kolekar&color=red"/>
 
 
 <br>
@@ -81,6 +83,7 @@ I'm a passionate tech enthusiasts developing my version of digital world with on
 
 
 ![Shivaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivaraj-Kolekar&show_icons=true&theme=tokyonight)
+<br>
 
 
 
@@ -88,7 +91,7 @@ I'm a passionate tech enthusiasts developing my version of digital world with on
 
 
 <a href="https://github.com/Shivaraj-Kolekar">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaraj-Kolekar&size_weight=0&count_weight=1&hide=html,css,jupyter%20notebook,purebasic&langs_count=3&layout=donut-vertical&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaraj-Kolekar&size_weight=0&count_weight=1&hide=html,css,jupyter%20notebook,purebasic&langs_count=5&layout=compact&theme=tokyonight" />
 </a>
 <br>
 <br>
