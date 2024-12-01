@@ -83,9 +83,11 @@ I'm a passionate tech enthusiasts developing my version of digital world with on
 
 
 ![Shivaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivaraj-Kolekar&show_icons=true&theme=tokyonight)
+
+
+
+![SK's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=tokyonight&hide_border=false&currStreakNum=F6A085&currStreakLabel=F6A085&user=Shivaraj-Kolekar)
 <br>
-
-
 
 
 
@@ -98,8 +100,6 @@ I'm a passionate tech enthusiasts developing my version of digital world with on
 
 
 
-![SK's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=tokyonight&hide_border=false&currStreakNum=F6A085&currStreakLabel=F6A085&user=Shivaraj-Kolekar)
-<br>
 
 
 
