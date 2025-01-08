@@ -59,7 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shivaraj-Kolekar&show_icons=true&theme=tokyonight" alt="Shivaraj's GitHub stats">
 
           
-  <img src="https://github-readme-streak-stats.herokuapp.com/?&theme=tokyonight&hide_border=false&currStreakNum=F6A085&currStreakLabel=F6A085&user=Shivaraj-Kolekar" alt="SK's GitHub Contributions">
 </div>
 
 
