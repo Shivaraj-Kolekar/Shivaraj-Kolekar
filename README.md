@@ -65,7 +65,7 @@
 
 
 <a href="https://github.com/Shivaraj-Kolekar">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaraj-Kolekar&size_weight=0&count_weight=1&hide=html,css,jupyter%20notebook,purebasic&langs_count=5&layout=compact&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaraj-Kolekar&size_weight=0&count_weight=1&langs_count=15&layout=compact&theme=tokyonight" />
 </a>
 <br>
 <br>
