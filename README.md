@@ -49,23 +49,21 @@
 <p align="">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,cpp,mysql,supabase,postgresql,py,nextjs,express,tailwind,html,css,js,ts,postman,vite,vercel,netlify,github,npm,git,flask,docker,replit,vscode,matlab,blender,linux,figma,md," />
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,react,cpp,mysql,supabase,postgresql,sqlite,py,nextjs,express,fastapi,tailwind,html,css,js,ts,postman,electron,vite,vercel,netlify,aws,nginx,githubactions,github,npm,pnpm,git,flask,docker,replit,vscode,androidstudio,codepen,matlab,blender,linux,ubuntu,figma,md" />
 </a>
+
 </p>
 
 ## 📊 Stats
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivaraj-Kolekar&show_icons=true&theme=tokyonight" alt="Shivaraj's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivaraj-Kolekar&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Shivaraj's GitHub stats">
 
           
 </div>
 
-
-
-
 <a href="https://github.com/Shivaraj-Kolekar">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaraj-Kolekar&size_weight=0&count_weight=1&langs_count=15&layout=compact&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaraj-Kolekar&size_weight=0.5&count_weight=0.5&hide=css,html&layout=pie&theme=tokyonight" />
 </a>
 <br>
 <br>
