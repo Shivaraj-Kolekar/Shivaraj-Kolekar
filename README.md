@@ -61,10 +61,12 @@
 
           
 </div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
 
 <a href="https://github.com/Shivaraj-Kolekar">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaraj-Kolekar&size_weight=0.5&count_weight=0.5&hide=css,html&layout=pie&theme=tokyonight" />
 </a>
+</div>
 <br>
 <br>
 <!-- <img src='https://github-contributor-stats.vercel.app/api?username=Shivaraj-Kolekar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true'/>
