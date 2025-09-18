@@ -56,11 +56,7 @@
 
 ## 📊 Stats
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivaraj-Kolekar&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Shivaraj's GitHub stats">
 
-          
-</div>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
 
 <a href="https://github.com/Shivaraj-Kolekar">
