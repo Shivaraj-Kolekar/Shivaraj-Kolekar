@@ -29,10 +29,10 @@ Passionate web developer crafting my own digital world, one project at a time. I
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaraj-Kolekar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>-->
+</p>
 
 ---
-
+-->
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shivaraj-Kolekar&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="Trophies" />
 </p> -->
