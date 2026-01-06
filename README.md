@@ -16,7 +16,7 @@ Passionate web developer crafting my own digital world, one project at a time. I
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -29,7 +29,7 @@ Passionate web developer crafting my own digital world, one project at a time. I
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaraj-Kolekar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p>-->
 
 ---
 
