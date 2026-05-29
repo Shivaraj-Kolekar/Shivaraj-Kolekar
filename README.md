@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=Shivaraj-Kolekar&color=red" alt="Profile views" />
 
 # 👨🏻‍💻 Shivaraj Kolekar
 **`Web Developer`**
