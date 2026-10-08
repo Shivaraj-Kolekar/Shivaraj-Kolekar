@@ -15,26 +15,14 @@ Passionate web developer crafting my own digital world, one project at a time. I
 </p>
 
 ---
-<!--
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivaraj-Kolekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Shivaraj's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaraj-Kolekar&layout=compact&theme=tokyonight&hide_border=true&hide=css,html" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaraj-Kolekar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shivaraj-Kolekar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shivaraj-Kolekar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shivaraj-Kolekar&theme=tokyonight&hide_border=true)<br/>
 
 ---
--->
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivaraj-Kolekar&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="Trophies" />
-</p> -->
+
 
 
 ## 🌐 Connect with Me
